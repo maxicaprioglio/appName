@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo-color {
+    background-color: rgba(108, 115, 154, 0.9);
+}
